@@ -12,7 +12,7 @@
 🤝 Collaborating with fellow developers and server owners to bring unique ideas to life.
 🌐 I'm always excited to learn and adapt to new challenges, so if you have any exciting projects or ideas in mind, feel free to reach out! Let's collaborate and bring some magic to the world of FiveM together.
 
-📫 You can get in touch with me via yldev.services@gmail.com for professional inquiries and networking.
+📫 You can get in touch with me via Dabz.services@outlook.com for professional inquiries and networking.
 
 🎮 When I'm not coding for FiveM, you'll often find me exploring the virtual world of GTA V or diving into other gaming adventures. Let's connect and share our love for gaming and Lua scripting!
 
